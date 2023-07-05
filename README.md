@@ -1,7 +1,7 @@
 # Horiseon Website Refactoring
 
 This repostiory was used to refactor the wesbite and add semantic elements. It was intended to allow the website to be more user friendly and follow accesssibility standards.
-It was also intended to be optimized for search engines. You wil be able to find that the HTML are semantic elements and follow a logical structure. 
+It was also intended to be optimized for search engines. You wil be able to find that the HTML has semantic elements and follows a logical structure. 
 All of the images and Icons are followed by alt attributes, and headings fall in sequential order. 
 
 
@@ -11,6 +11,8 @@ The following image shows the web application's appearance and functionality:
 
 
 ![Alt text](assets/images/01-html-css-git-homework-demo.png)
+
+ Deployed application : https://nysat.github.io/Horiseon-Website-Refactoring/
 
 ## User Story
 
